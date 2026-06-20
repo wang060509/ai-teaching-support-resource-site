@@ -19,7 +19,7 @@ features:
   - title: Teaching Support Assets
     details: Draft guides, module maps, and workflow notes designed for higher education workshops.
   - title: Responsible Content Boundaries
-    details: Public-facing pages use reviewed summaries and placeholders instead of raw or private source material.
+    details: Public-facing pages use sanitized summaries and teaching-focused drafts instead of raw or private source material.
 ---
 
 ## Teaching Resource Focus
@@ -35,7 +35,7 @@ This site organizes AI teaching-support materials for beginner-friendly learning
 | Workshop planning | Maps topics into reusable learning modules | Module map drafted |
 
 ::: info Content boundary
-This site uses concise summaries and placeholders. It does not copy raw sources, professor emails, approval PDFs, budget materials, internal Drive instructions, or private administrative documents.
+This site uses concise summaries and teaching-focused drafts. It does not copy raw sources, professor emails, approval PDFs, budget materials, internal Drive instructions, or private administrative documents.
 :::
 
 ## Short Chinese Summary

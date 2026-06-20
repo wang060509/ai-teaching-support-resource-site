@@ -17,7 +17,7 @@ The site documents beginner-friendly AI literacy topics, teaching use cases, and
 
 ## Scope
 
-This version includes page structures and placeholder guide pages. Detailed content will be added only after manual review.
+This version includes drafted beginner-friendly guides and module planning materials. The materials can be reviewed and adapted for classroom or workshop use.
 
 ::: warning Not an official site
 This website is a personal learning and teaching-support site. It should not be presented as the official website of RAISE Hub or any university office.
@@ -38,6 +38,6 @@ This website is a personal learning and teaching-support site. It should not be 
 
 - AI evaluation for beginners
 - AI capabilities and limitations
-- Beginner vibe coding
+- AI-assisted project workflow
 - Codex beginner workflow
 - Workshop module planning

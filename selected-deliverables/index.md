@@ -2,25 +2,25 @@
 
 ## Overview
 
-This section organizes beginner-friendly guides and reusable teaching modules. The current pages are placeholders that define audience, teaching use, learning goals, and review needs.
+This section organizes drafted beginner-friendly guides and reusable teaching modules. These pages are written as teaching-support materials that can be reviewed, adapted, and used for classroom or workshop preparation.
 
-::: info Placeholder status
-Detailed content has not been imported. Each page should be expanded only after manual review for privacy, accuracy, and public teaching use.
+::: info Draft status
+The guides are public-facing drafts. They should still be reviewed for course policy, audience fit, approved tools, privacy expectations, and local teaching context before classroom or workshop use.
 :::
 
 ## Guide Index
 
 | Guide or module | Teaching focus | Status |
 | --- | --- | --- |
-| [AI Evaluation Beginner Guide](./ai-evaluation-beginner-guide.md) | Helping beginners judge AI output quality | Placeholder |
-| [AI Capabilities and Limitations](./ai-capabilities-limitations.md) | Explaining what AI tools can and cannot do reliably | Placeholder |
-| [AI-Assisted Project Workflow](./beginner-vibe-coding-guide.md) | Introducing exploratory AI-assisted project workflows | Placeholder |
-| [Codex Beginner Workflow](./codex-beginner-workflow.md) | Supporting structured work with Codex-style coding assistance | Placeholder |
-| [Workshop Module Map](./workshop-module-map.md) | Organizing topics into reusable workshop modules | Placeholder |
+| [AI Evaluation Beginner Guide](./ai-evaluation-beginner-guide.md) | Helping beginners judge AI output quality | Guide drafted |
+| [AI Capabilities and Limitations](./ai-capabilities-limitations.md) | Explaining what AI tools can and cannot reliably do | Guide drafted |
+| [AI-Assisted Project Workflow](./beginner-vibe-coding-guide.md) | Introducing exploratory AI-assisted project workflows | Guide drafted |
+| [Codex Beginner Workflow](./codex-beginner-workflow.md) | Supporting structured work with Codex-style coding assistance | Guide drafted |
+| [Workshop Module Map](./workshop-module-map.md) | Organizing topics into reusable workshop modules | Module map drafted |
 
 ## Review Criteria
 
 - Keep content concise and beginner-friendly.
-- Use only approved, sanitized summaries.
+- Adapt examples to the audience, course policy, and approved tools.
 - Avoid private communications and internal administrative details.
-- Make the teaching purpose visible on every page.
+- Make responsible AI practice, verification, and reflection visible in use.

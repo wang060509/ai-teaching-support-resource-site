@@ -17,10 +17,10 @@ The workflow describes how selected learning resources can become beginner-frien
 - Keep explanations clear and beginner-friendly.
 - Separate private source material from public-facing teaching summaries.
 - Use consistent page structures so future materials are easy to scan.
-- Track what is ready, what needs review, and what remains placeholder content.
+- Track what is drafted, what needs review, and what can be adapted for classroom or workshop use.
 
 ::: tip Review-first publishing
-Guide pages should be expanded only after checking that the content is accurate, appropriate for public teaching use, and free of private information.
+Drafted guide pages should be reviewed for accuracy, audience fit, privacy, and local teaching expectations before classroom or workshop use.
 :::
 
 ## Guide Page Pattern
@@ -33,5 +33,5 @@ Each guide or module page uses the same review-friendly structure:
 | Audience | Who the material is designed to help |
 | Teaching purpose | What the learner should gain |
 | Learning goals | What the material should help learners practice |
-| Status | Draft, placeholder, review needed, or ready |
-| Manual review notes | What must be checked before adding detailed content |
+| Status | Drafted, review-ready, adapted for class, or revised |
+| Review notes | What should be checked before classroom or workshop use |
